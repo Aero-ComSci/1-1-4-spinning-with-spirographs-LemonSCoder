@@ -79,11 +79,5 @@ while (x <= 0):
     y = y - move_y
     painter.goto(x,y)
 
-
-wn = trtl.Screen()
-wn.mainloop()
-
-
-
 wn = trtl.Screen()
 wn.mainloop()
