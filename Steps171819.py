@@ -1,3 +1,4 @@
+#Answer to Step Seventeen.
 import turtle as trtl
 
 painter = trtl.Turtle()
@@ -22,8 +23,14 @@ while (x <= 0):
     y = y + move_y
     painter.goto(x,y)
   move_y = 1
+  
+wn = trtl.Screen()
+wn.mainloop()
 
 #Solution to Question Eighteen.
+import turtle as trtl
+
+painter = trtl.Turtle()
 painter.penup()
 painter.goto(-200, 0)
 painter.pendown()
@@ -78,6 +85,72 @@ while (x <= 0):
     x = x + move_x
     y = y - move_y
     painter.goto(x,y)
+
+wn = trtl.Screen()
+wn.mainloop()
+
+#Solution to Step Nineteen
+import turtle as trtl
+
+painter = trtl.Turtle()
+
+while True:
+  x = -200
+  y = 0
+  move_x = 1
+  move_y = 1
+  while (x < 0):
+  
+    painter.penup()
+    painter.goto(-200, 0)
+    painter.pendown()
+
+    while (y < 100):
+      x = x + move_x
+      y = y + move_y
+      painter.goto(x,y)
+    move_y = -1
+  
+    while (y > (-100)):
+      x = x + move_x
+      y = y + move_y
+      painter.goto(x,y)
+    move_y = 1
+
+    while (y < (100)):
+      x = x + move_x
+      y = y + move_y
+      painter.goto(x,y)
+    move_y = 1
+  
+  painter.penup()
+  painter.goto(-200, 0)
+  painter.pendown()
+
+  x = -200
+  y = 0
+  move_x = 1
+  move_y = 1
+  while (x < 0):
+  
+    while (x < (-100)):
+      x = x + move_x
+      y = y - move_y
+      painter.goto(x,y)
+    move_y = 1
+
+    while (y < 100):
+      x = x + move_x
+      y = y + move_y
+      painter.goto(x,y)
+    move_y = 1
+  
+    while (x < 400):
+      x = x + move_x
+      y = y - move_y
+      painter.goto(x,y)
+    move_y = -1
+
 
 wn = trtl.Screen()
 wn.mainloop()
