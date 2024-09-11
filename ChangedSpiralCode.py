@@ -1,8 +1,8 @@
 import math
 import random
 import turtle
-background_colors = ["white"]
-colors = ["light slate gray", "alice blue", "light steel blue", "cornflower blue", "royal blue", "navy", "midnight blue", "light blue", "powder blue", "light sky blue", "azure", "light cyan", "pale turquoise","turquoise", "aquamarine", "pale green"]
+background_colors = ["dim gray", "black", "slate gray", "midnight blue", "dark slate gray"]
+colors = ["light slate gray", "alice blue", "light steel blue", "cornflower blue", "royal blue", "navy", "midnight blue", "light blue", "powder blue", "light sky blue", "azure", "light cyan", "pale turquoise","turquoise", "aquamarine", "pale green", "spring green", "green yellow", "chartreuse", "yellow green", "medium violet red", "dark magenta", "violet", "magenta", "thistle", "plum", "orchid", "medium orchid", "blue violet", "medium purple", "lavender", "medium slate blue"]
 spiral_turtle = turtle.Turtle()
 spiral_turtle.speed(20)
 turtle.screensize(800, 800, random.choice(background_colors))
