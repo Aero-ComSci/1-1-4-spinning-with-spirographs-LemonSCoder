@@ -7,7 +7,7 @@
 2. [https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/OriginalSpiralCode.py](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/OriginalSpiralCode.py)
 4. [Screenshot of my Result](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/images/ConcentricSquares.png) [the code](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/images/SpiralCodeImage.xcf)
 
-4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
+4. [steps 17, 18 and 19](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/Steps171819.py)
 5. Answer to step 21
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
