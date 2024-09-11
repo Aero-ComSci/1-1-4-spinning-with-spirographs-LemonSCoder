@@ -4,8 +4,8 @@
 *Complete the following.*
 
 1.  Zero-iteration conditions never occur or start while infinite loops go on forever due to the fact that the condition that, when true, makes the loop run remains true.
-2. ([https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/OriginalSpiralCode.py](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/OriginalSpiralCode.py))
-4. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
+2. [https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/OriginalSpiralCode.py](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/OriginalSpiralCode.py)
+4. [Screenshot of my Result](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-LemonSCoder/blob/main/images/ConcentricSquares.png) the code to create it on your repo.
 Objective: Write a Python program using the turtle module to draw a pattern of concentric squares. The pattern should be created using nested loops.
 
 
