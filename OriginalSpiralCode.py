@@ -33,5 +33,5 @@ while concentric_number <= (800):
         turn_count += 1
     #Prevents an infinite loop and makes sure the squares are equally distanced from each other.
     concentric_number += 160
-#Makes sure turtle drawing stays on screen.
+#Makes sure turtle drawing doesn't close.
 turtle.done()
