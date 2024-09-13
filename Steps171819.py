@@ -195,7 +195,7 @@ while True:
       #y moves down
       y = y - move_y
       painter.goto(x,y)
-    #y moves down nex time
+    #y moves down next time
     move_y = -1
 
 
